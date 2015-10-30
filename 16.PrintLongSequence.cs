@@ -13,7 +13,7 @@ class PrintLongSequence
             {
                 Console.Write(-i);
             }
-            if (i < 11)
+            if (i < 1001)
             {
                 Console.Write(", ");
             }
